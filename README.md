@@ -37,6 +37,28 @@ Pandas and Numpy - To handle and anlyse the data<br>
 Matplotlib - To visualize data<br>
 Sklean - To apply reggression<br>
 
+# Project Architecture
+Dataset Chosen: 2020 World Development Indicators <br>
+Indicators Chosen:<br>
+-Arms Imports<br>
+-Mobile Cellular Subscriptions<br>
+-New Businesses Registered<br>
+-Population Total<br>
+-Refugee Population by Country or Territory of Origin<br>
+Data Preprocessing: <br>
+-Filtered Data into subsets w.r.t. the 5 indicators<br>
+-Filtered out the population data for Pakistan<br>
+Predictions:<br>
+Using Linear regression, predicted the population of Pakistan for the next 10 years.<br>
+Data Preprocessing Tools:<br>
+-Python 3<br>
+-Jupyter Notebook<br>
+Visualizations:<br>
+-Racing Bar Chart<br>
+-World Map<br>
+-Bar Chart<br>
+Visualization Tools:<br>
+-Tableau Desktop<br>
 
 # Members: 
 -Nikhar Azhar <br>
