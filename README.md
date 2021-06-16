@@ -25,4 +25,5 @@ Keep in mind that dynamic visualizations won’t run on Table public and you hav
 
 # Members: 
 *Nikhar Azhar <br>
-*Huma Ameer, Saher Sohail, Fasih Ashfaq and Usama Naveed
+*Huma Ameer<br> 
+-Saher Sohail, Fasih Ashfaq and Usama Naveed
