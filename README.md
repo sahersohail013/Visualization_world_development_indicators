@@ -9,7 +9,7 @@ Tne data set has been taken from the following source <a href="https://www.kaggl
   numpy, matplotlib, sklearn.metrics, sklearn.linear_model, pandas
 
 # Detailed documentation:
-Download the data from the link given below. 
+ Markup : * Bullet list  Download the data from the link given below. 
 Now extract these features/columns along with the country names
 Mobile cellular subscription.
 Arms import
