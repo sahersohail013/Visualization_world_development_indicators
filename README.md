@@ -13,10 +13,10 @@ This project consists of two parts <br>
 1.EDA and Dashboard in Tableau<br>
 2.Regression Analysis in Python Jupyter Notebook<br>
 To run the Tableau Dashboard download the .twb file and import to Tableau. Please note this dashboard has been created in Licensed Tableau Desktop. Therefore, it might not be compatible with Tableau public.<br>
-Now extract these features/columns along with the country names
--Mobile cellular subscription.
--Arms import
--Population
+Now extract these features/columns along with the country names: <br>
+  -Mobile cellular subscription.
+  -Arms import
+  -Population
 -Refugee count by country
 -Number of new businesses registered.
 After extracting these features convert these files from ‘csv’ format to ‘xlsx’ that is an excel workbook otherwise Tableau wont connect to it.
