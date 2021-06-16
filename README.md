@@ -26,9 +26,9 @@ Keep in mind that dynamic visualizations won’t run on Table public and you hav
 
 To run the python code please install Jupyter Notebook software and load .ipynb file provided in the repository. The python pacakges used for visulization and data handling are as follows.
 
-Pandas and Numpy - To handle and anlyse the data
-Matplotlib - To visualize data
-Sklean - To apply reggression
+Pandas and Numpy - To handle and anlyse the data<br>
+Matplotlib - To visualize data<br>
+Sklean - To apply reggression<br>
 
 
 # Members: 
