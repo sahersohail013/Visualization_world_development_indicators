@@ -5,6 +5,13 @@ This repository has been created to showcase information visualization project a
 Tne data set has been taken from the following source <a href="https://www.kaggle.com/manchunhui/world-development-indicators#">2020 World Development Indicators</a>
 
 
+# Repository Files
+Project.rar - Tableau Dashboard File<br>
+lr.py - Jupyter Notebook for Regression Analysis<br>
+xlxs.rar - Dataset in csv format<br>
+screenshots.rar - Dashboard images<br>
+
+
 # Libraries: 
   numpy, matplotlib, sklearn.metrics, sklearn.linear_model, pandas
 
