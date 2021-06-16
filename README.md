@@ -9,7 +9,9 @@ Tne data set has been taken from the following source <a href="https://www.kaggl
   numpy, matplotlib, sklearn.metrics, sklearn.linear_model, pandas
 
 # Detailed documentation:
- Markup : * Bullet list  Download the data from the link given below. 
+
+
+ Download the data from the link given below. 
 Now extract these features/columns along with the country names
 Mobile cellular subscription.
 Arms import
@@ -22,4 +24,5 @@ Now place the tableau files and excel workbooks in the same folder and try to op
 Keep in mind that dynamic visualizations won’t run on Table public and you have to download Tableau Desktop.
 
 # Members: 
-Nikhar Azhar, Huma Ameer, Saher Sohail, Fasih Ashfaq and Usama Naveed
+*Nikhar Azhar <br>
+*Huma Ameer, Saher Sohail, Fasih Ashfaq and Usama Naveed
