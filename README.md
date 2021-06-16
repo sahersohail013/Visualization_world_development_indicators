@@ -14,11 +14,11 @@ This project consists of two parts <br>
 2.Regression Analysis in Python Jupyter Notebook<br>
 To run the Tableau Dashboard download the .twb file and import to Tableau. Please note this dashboard has been created in Licensed Tableau Desktop. Therefore, it might not be compatible with Tableau public.<br>
 Now extract these features/columns along with the country names: <br>
-  -Mobile cellular subscription.
-  -Arms import
-  -Population
--Refugee count by country
--Number of new businesses registered.
+-Mobile cellular subscription<br>
+  -Arms import<br>
+  -Population<br>
+-Refugee count by country<br>
+-Number of new businesses registered<br>
 After extracting these features convert these files from ‘csv’ format to ‘xlsx’ that is an excel workbook otherwise Tableau wont connect to it.
 Download Table Desktop from the official website of Tableau and sign up for a trial.
 Now place the tableau files and excel workbooks in the same folder and try to open a dashboard using tableau desktop. 
